@@ -15,7 +15,7 @@ Data: 06NOV2021
 
 Autor: Ygor Moreira Lima
 
-Site: www.laboratoriodebits.com.br
+Site: ygorml.org
 */
 
 /* Protótipo das funções */ 
